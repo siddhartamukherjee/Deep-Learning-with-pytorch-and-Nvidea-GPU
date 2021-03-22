@@ -1,6 +1,6 @@
 # About the project
 
-This project demonstartes how one can leverage the power of pytorch combined with Nvidea GPU to speed up the neural network training process drastically.
+This project demonstartes how one can leverage the power of pytorch combined with Nvidia GPU to speed up the neural network training process drastically.
 
 For this I had used the NYC Taxi Fares dataset from kaggle. 
 
